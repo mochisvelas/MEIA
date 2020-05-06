@@ -1,0 +1,4 @@
+vidrio|non-organic|12|michaelv|11/4/19|fine|C:\Users\Brenner\OneDrive\Extras\Imágenes\lemonkey.png
+papel|semi-organic|50|michaelv|11/3/19|medium|C:\Users\Brenner\OneDrive\Extras\Imágenes\laughing crying open eyes emoji.PNG
+plastic|non-organic|80|michaelv|11/3/19|fricked|C:\Users\Brenner\OneDrive\Extras\Imágenes\lemonkey.png
+cáscaras de fruta|organic|3 meses|michaelv|11/4/19|good|C:\Users\Brenner\OneDrive\Extras\Imágenes\lemonkey.png|1
